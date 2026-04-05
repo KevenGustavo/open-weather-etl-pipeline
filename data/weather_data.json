@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": -44.3028,
+        "lat": -2.5297
+    },
+    "weather": [
+        {
+            "id": 211,
+            "main": "Thunderstorm",
+            "description": "thunderstorm",
+            "icon": "11d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 303.26,
+        "feels_like": 308.46,
+        "temp_min": 303.26,
+        "temp_max": 303.26,
+        "pressure": 1011,
+        "humidity": 70,
+        "sea_level": 1011,
+        "grnd_level": 1009
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 6.69,
+        "deg": 90
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1775403261,
+    "sys": {
+        "type": 1,
+        "id": 8440,
+        "country": "BR",
+        "sunrise": 1775379448,
+        "sunset": 1775422919
+    },
+    "timezone": -10800,
+    "id": 3388368,
+    "name": "S\u00e3o Lu\u00eds",
+    "cod": 200
+}
