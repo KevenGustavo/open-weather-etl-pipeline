@@ -14,7 +14,7 @@ user = os.getenv("POSTGRES_USER")
 password = os.getenv("POSTGRES_PASSWORD")
 database = os.getenv("POSTGRES_DB")
 port = os.getenv("POSTGRES_PORT")
-host = "localhost"
+host = "postgres"
 
 def get_engine():
     logging.info(f"Conectando em {host}:{port}/{database}")
